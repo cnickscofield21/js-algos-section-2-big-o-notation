@@ -2,7 +2,7 @@
 
 From the self-paced Udemy course titled _JavaScript Algorithms and Data Structures Masterclass: The Missing Computer Science and Coding Interview Bootcamp_ by Colt Steele
 
-Learn more [here]. (https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/)
+Learn more [here](https://www.udemy.com/course/js-algorithms-and-data-structures-masterclass/).
 
 5. Intro to Big O
 
