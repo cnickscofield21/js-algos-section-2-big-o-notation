@@ -10,3 +10,7 @@ Learn more [here]. (https://www.udemy.com/course/js-algorithms-and-data-structur
 * Clarifies the vocabulary used when discussing code performance
 * Explains why these questions appear in technical interviews
 
+6. Timing Our Code
+
+* Compares speed vs. memory usage vs. readability
+* Illustrates how time measurements may be imprecise, even when testing on the same machine repeatedly
